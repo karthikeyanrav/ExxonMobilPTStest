@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-15T00:20:24 GMT-08:00" name="Suite" finished-at="2022-03-15T00:25:54 GMT-08:00" duration-ms="330526">
+    <groups>
+    </groups>
+    <test started-at="2022-03-15T00:20:24 GMT-08:00" name="Test" finished-at="2022-03-15T00:25:54 GMT-08:00" duration-ms="330526">
+      <class name="com.PTW.testscripts.ApprovalLifeCycle">
+        <test-method is-config="true" signature="enterBrowser()[pri:0, instance:com.PTW.testscripts.ApprovalLifeCycle@2a54a73f]" started-at="2022-03-15T00:20:38 GMT-08:00" name="enterBrowser" finished-at="2022-03-15T00:20:42 GMT-08:00" duration-ms="3855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBrowser -->
+        <test-method signature="testApprovalLifeCycle()[pri:0, instance:com.PTW.testscripts.ApprovalLifeCycle@2a54a73f]" started-at="2022-03-15T00:22:44 GMT-08:00" name="testApprovalLifeCycle" finished-at="2022-03-15T00:25:53 GMT-08:00" duration-ms="189243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApprovalLifeCycle -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.PTW.testscripts.ApprovalLifeCycle@2a54a73f]" started-at="2022-03-15T00:25:54 GMT-08:00" name="Logout" finished-at="2022-03-15T00:25:54 GMT-08:00" duration-ms="308" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- com.PTW.testscripts.ApprovalLifeCycle -->
+      <class name="com.PTW.testscripts.PermitModule">
+        <test-method is-config="true" signature="enterBrowser()[pri:0, instance:com.PTW.testscripts.PermitModule@6d4e5011]" started-at="2022-03-15T00:20:24 GMT-08:00" name="enterBrowser" finished-at="2022-03-15T00:20:38 GMT-08:00" duration-ms="13824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBrowser -->
+        <test-method signature="testPermitModule()[pri:0, instance:com.PTW.testscripts.PermitModule@6d4e5011]" started-at="2022-03-15T00:20:42 GMT-08:00" name="testPermitModule" finished-at="2022-03-15T00:22:44 GMT-08:00" duration-ms="122081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPermitModule -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.PTW.testscripts.PermitModule@6d4e5011]" started-at="2022-03-15T00:25:53 GMT-08:00" name="Logout" finished-at="2022-03-15T00:25:54 GMT-08:00" duration-ms="1140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- com.PTW.testscripts.PermitModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

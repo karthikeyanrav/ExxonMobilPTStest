@@ -1,0 +1,18 @@
+PermitVision
+
+url  : https://retgrwpta1.upstreamaccts.xom.com/login?return_url=%2F
+user : KRAVIC2
+password : Winter@123
+title : SHM Test
+description : Automation Test
+activityinvolve : Test
+planstartdate : 03/03/2022
+planenddate : 03/26/2022
+startime : 06:00
+endtime : 18:00
+peopleno : 2
+workorder : WO112141
+
+Approval Life Cycle
+
+lessonDescription : Permit Enter Successfully
